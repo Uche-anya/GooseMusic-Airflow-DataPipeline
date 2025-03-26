@@ -42,8 +42,8 @@ Make sure your AWS credentials are properly set up for Airflow to access S3 and 
 1. Install **Docker** and **Docker Compose** if not already installed.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/goose-music-pipeline.git
-   cd goose-music-pipeline
+   git clone https://github.com/Uche-anya/GooseMusic-Airflow-DataPipeline.git
+   cd GooseMusic-Airflow-DataPipelin
    ```
 3. Start Airflow using Docker:
    ```sh
