@@ -43,7 +43,7 @@ Make sure your AWS credentials are properly set up for Airflow to access S3 and 
 2. Clone this repository:
    ```sh
    git clone https://github.com/Uche-anya/GooseMusic-Airflow-DataPipeline.git
-   cd GooseMusic-Airflow-DataPipelin
+   cd GooseMusic-Airflow-DataPipeline
    ```
 3. Start Airflow using Docker:
    ```sh
@@ -62,8 +62,3 @@ Make sure your AWS credentials are properly set up for Airflow to access S3 and 
 
 The raw data used in this project is sourced from Udacity and is subject to their licensing terms. This project itself is open-source and free for educational use.
 
----
-
-For any issues, feel free to raise a GitHub issue or reach out!
-
-# GooseMusic-Airflow-DataPipeline
