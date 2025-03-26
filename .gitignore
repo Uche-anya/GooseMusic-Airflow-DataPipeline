@@ -1,8 +1,10 @@
-venv/
+# Ignore PyCharm files
+.idea/
 
+# Ignore Python virtual environments
+.venv/
 __pycache__/
 
+# Ignore environment files
 *.env
-
-config/*
-
+.udacity_env
